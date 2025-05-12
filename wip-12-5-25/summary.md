@@ -31,4 +31,15 @@
 
 
 ## Cluster-Autoscaler gRPC Provider
+* Investigated the ability to use gRPC and Protobufs to create a custom API for the K8s-native cluster-autoscaler
+* Compiled the .proto files of K8s and the provider to python code
+* Understood the format and ease of usage of Protobufs
+* Created a gRPC server build on the compiled code, *in python*.
+
+
+
+
+
+
+
 
