@@ -19,6 +19,8 @@
 ### Next Steps
 * Figure out how to configure max backoff
 * List requires features/constraints of the EC2 API to guide its implementation.
+* Try reading from a secret
+* Register to Rancher using it
 
 
 ## Cluster API
